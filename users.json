@@ -1,0 +1,46 @@
+{
+    "users": [
+        {
+            "username": "admin",
+            "password": "adminpassword",
+            "balance": 1000,
+            "role": "admin",
+            "verified": true
+        },
+        {
+            "username": "user1",
+            "password": "userpassword1",
+            "balance": 98278,
+            "role": "user",
+            "verified": true
+        },
+        {
+            "username": "user2",
+            "password": "userpassword2",
+            "balance": 2522,
+            "role": "user",
+            "verified": false
+        },
+        {
+            "username": "a",
+            "password": "a",
+            "balance": 0,
+            "role": "user",
+            "verified": true
+        },
+        {
+            "username": "",
+            "password": "",
+            "balance": 0,
+            "role": "user",
+            "verified": true
+        },
+        {
+            "username": "as",
+            "password": "as",
+            "balance": 0,
+            "role": "user",
+            "verified": true
+        }
+    ]
+}
